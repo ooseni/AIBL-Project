@@ -23,7 +23,16 @@ The data is heterogenous, in relation to Alzheimer’s disease (AD), which is th
 The data is heterogenous. Eight different datasets were provided in relation to
 Alzheimer's disease (AD), and there exists a primary key which can be used to
 combine the datasets into a single csv file. More detailed info about the datasets
-is provided in the AIBL_outline.docx
+is provided in the AIBL_outline.docx.
+
+- The **apoeres_data** contain the information about the **Genotype**
+- The **cdr_data** contain the information about the **CDR score Cognitive assessment**
+- The **lab_data** contain the information about the **Blood test**
+- The **med_hist** contain the information about the **Medical history**
+- The **mmse_data** contain the information about the **MMSE score score Cognitive assessment**
+- The **neurobat** contain the information about the **Logical memory recall score Cognitive assessment**
+- The **pdxconv** contain the information about the **Clinical diagnosis**
+- The **ptdemog** contain the information about the **Gender and DoB**
 
 
 ## ML-Zip
