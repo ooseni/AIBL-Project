@@ -11,7 +11,6 @@ ANALYSING AUSTRALIAN IMAGING BIOMARKER LIFESTYLE DATA USING NAÏVE BAYES
   * [ML-Zip](#ml-zip)
   * [Final Submission](#final-submission)
   * [AIBL project overview](#aibl-project-overview)
-  * [Built with](#built-with)
   * [Files used](#files-used)
 
 
@@ -25,3 +24,28 @@ The data is heterogenous. Eight different datasets were provided in relation to
 Alzheimer's disease (AD), and there exists a primary key which can be used to
 combine the datasets into a single csv file. More detailed info about the datasets
 is provided in the AIBL_outline.docx
+
+
+## ML-Zip
+This folder contains all the files for the project in an archived form.
+
+
+## Final Submission
+This folder contains two files, one which contains the final notebook file, and
+the other which is the presentation file in pdf format.
+
+
+##  AIBL project overview
+Your developed project must demonstrate your learning to date and your knowledge of
+machine learning (ML) and data modelling, to include the use of at least 3 supervised and/or unsupervised learning algorithms, based on the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL) data.
+
+
+## Files used
+- aibl_apoeres_01-Jun-2018
+- aibl_cdr_01-Jun-2018
+- aibl_labdata_01-Jun-2018
+- aibl_medhist_01-Jun-2018
+- aibl_mmse_01-Jun-2018
+- aibl_neurobat_01-Jun-2018
+- aibl_pdxconv_01-Jun-2018
+- aibl_ptdemog_01-Jun-2018
